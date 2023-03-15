@@ -975,7 +975,7 @@
 \orth Шоромо мони: «Мэт эл чандэличэ,
 \ftr Человек сказал: «Я не сильный.
 \fte The man said, “I am not strong.
-\ftj 人間は言った ‎‎、「わたしは強くない。
+\ftj 人間は言った、「わたしは強くない。
 \n 2015:6(3.29)
 
 \ref 42_ShAG20021022T1_03
@@ -5205,7 +5205,7 @@
 \orth льэм,
 \ftr Затем...
 \fte Then ...
-\ftj ​あれした。
+\ftj あれした。
 \n 2015:21(9.68)
 
 \ref 114_ShAG20020527T_09
@@ -7581,7 +7581,7 @@
 \ref 104_ShAG20030821T2_11
 \t (xxx) aŋd'egi t'umu omolbāl'el,” moni.
 \m (xxx) aŋd'e-gi t'umu omolbā-l'el-0,” mon-i.
-\g eye-POSS.3 all be.good:INCH-INFR(-IND.INTR.3SG) say-IND.INTR.3SG
+\g {} eye-POSS.3 all be.good:INCH-INFR(-IND.INTR.3SG) say-IND.INTR.3SG
 \orth ??? аӈдьэги чуму омолбаальэл, — мони,
 \ftr её глаза выздоровели.
 \fte Her eyes were healed.
@@ -7913,7 +7913,7 @@
 \m irkin gōrat-ke pochtal'on-ek l'ie-l'el-u-l.
 \g one town(Rus.)-LOC postman(Rus.)-FOC exist-INFR-E-SF
 \orth Иркин гододкэ почтальонэк льиэльэлул.
-\ftr ‎‎В одном городе жил почтальон.
+\ftr В одном городе жил почтальон.
 \fte In a town, there lived a postman.
 \ftj ある町に郵便配達人がいた。
 \n 2015:31(12.1)
@@ -8891,7 +8891,7 @@
 \ref 99_ShAG19970728T_12
 \t a_tā_tsepilsja_toporom.
 \m a_tā_tsepilsja_toporom.
-\g ‎it.was.stuck.to.the.axe(Rus.)
+\g it.was.stuck.to.the.axe(Rus.)
 \orth А таа цепился топором.
 \ftr А таа цепился топором (т.е. он приклеился к топору).
 \fte And it stuck to the axe.
@@ -9261,7 +9261,7 @@
 \ref 136_ShAG19970728T_12
 \t zhil_okazyvaetsja_s_etoj_baboj.
 \m zhil_okazyvaetsja_s_etoj_baboj.
-\g ‎it.turns.out.that.he.lived.with.that.woman(Rus.)
+\g it.turns.out.that.he.lived.with.that.woman(Rus.)
 \orth Жил оказывается с этой бабой.
 \ftr Жил, оказывается, с этой бабой.
 \fte It turned out that he lived with that woman.
@@ -9451,7 +9451,7 @@
 \ref 155_ShAG19970728T_12
 \t i_ego_chut'_ne_utopil_ne_utopila.
 \m i_ego_chut'_ne_utopil_ne_utopila.
-\g ‎and.she.almost.drowned.him(Rus.)
+\g and.she.almost.drowned.him(Rus.)
 \orth И его чуть не утопил, не утопила.
 \ftr И его чуть не утопил, не утопила.
 \fte And she almost drowned him.
@@ -9473,7 +9473,7 @@
 \m “met-ket kebe-jek,” mon-i.
 \g 1SG-ABL leave-IND.INTR.2SG say-IND.INTR.3SG
 \orth «Мэткэт кэбэйэк, — мони.
-\ftr ‎‎Баба-Яга сказала: «От меня убежал.
+\ftr Баба-Яга сказала: «От меня убежал.
 \fte Baba-Yaga said, “You've escaped from me.
 \ftj 「わたしからは逃げた。
 \n 2015:36(12.101)
@@ -9591,7 +9591,7 @@
 \ref 169_ShAG19970728T_12
 \t i_davaj_tamun_chelovek_kotoryj_no_on_chelovek_v_samom_dele_togo_drugogo_pobedili_vdvoëm_ubili.
 \m i_davaj_tamun_chelovek_kotoryj_no_on_chelovek_v_samom_dele_togo_drugogo_pobedili_vdvoëm_ubili.
-\g ‎actually.he.was.a.man.and.they.beat.the.other.Bogatyr.together.they.killed.him(Rus.)
+\g actually.he.was.a.man.and.they.beat.the.other.Bogatyr.together.they.killed.him(Rus.)
 \orth И давай, тамун человек который, но он человек в самом деле, того другого победили вдвоём, убили.
 \ftr И давай, тамун человек который, но он человек в самом деле, того другого победили вдвоём, убили.
 \fte This Bagatyr was a man, he was actually a man. And they beat the other Bogatyr. They killed him.
@@ -9925,7 +9925,7 @@
 \orth Оожэшӈаа.
 \ftr Его напоили.
 \fte They got him drunk.
-\ftj ​飲まされた。
+\ftj 飲まされた。
 \n 2015:37(12.129)
 
 \ref 203_ShAG19970728T_12
@@ -12025,7 +12025,7 @@
 \orth Кэбэч».
 \ftr И ушёл».
 \fte And he left.”
-\ftj ​（そして彼は） 去った」
+\ftj （そして彼は） 去った」
 \n 2015:44(13.12)
 
 \ref 184_ShAG19970804T_13
@@ -14295,7 +14295,7 @@
 \orth Дьэ хони.
 \ftr Он пошёл.
 \fte He went.
-\ftj ​行った。
+\ftj 行った。
 \n 2015:53(15.9)
 
 \ref 14_ShAG20021012T_15
@@ -14495,7 +14495,7 @@
 \orth — Эл холлох.
 \ftr Не ходи.
 \fte Don't go.
-\ftj ​行かないでくれ。
+\ftj 行かないでくれ。
 \n 2015:54(15.22)
 
 \ref 34_ShAG20021012T_15
@@ -15455,7 +15455,7 @@
 \orth Таӈ мэ льэк, — мони.
 \ftr Давай.
 \fte “Let's do that.
-\ftj ‎「ああしよう。
+\ftj 「ああしよう。
 \n 2015:56(15.69)
 
 \ref 130_ShAG20021012T_15
@@ -17115,7 +17115,7 @@
 \orth — Мойк!»
 \ftr Держи!»
 \fte Hold him!”
-\ftj ​持っていろ！」
+\ftj 持っていろ！」
 \n 2015:62(16.57)
 
 \ref 96_ShAG20030829T1_16
@@ -17565,7 +17565,7 @@
 \orth Кинтэк монул титаат йоӈро, йуѳмэк?
 \ftr — Кто это сказал, забыла, видишь?
 \fte I forgot who told so, do yo see?
-\ftj 誰がこう言ったのだろうか忘れてしまったよ。 ​分かるかい？
+\ftj 誰がこう言ったのだろうか忘れてしまったよ。 分かるかい？
 \n 2015:63(16.79)
 
 \ref 141_ShAG20030829T1_16
@@ -18915,7 +18915,7 @@
 \orth Чуудэйлэ читтэ чуму иркидьэ патльэлӈаа.
 \ftr Коровье мясо всё за один раз сварили.
 \fte They boiled the beef all at once.
-\ftj ​その肉をぜんぶ一気に煮た。
+\ftj その肉をぜんぶ一気に煮た。
 \n 2015:68(18.4)
 
 \ref 7_ShAG20030816T2_18
@@ -18965,7 +18965,7 @@
 \orth Дьэ тамун чуудэйлэ истоолгэ эгэтэм.
 \ftr Поставили мясо на стол.
 \fte They put the meat on the table.
-\ftj ​テーブルに肉を置いた。
+\ftj テーブルに肉を置いた。
 \n 2015:68(18.8)
 
 \ref 12_ShAG20030816T2_18
@@ -19005,7 +19005,7 @@
 \orth Дьэ чоҕойэ миндэлэ лэгиэм, пулундиэ.
 \ftr Старик взял нож и начал есть.
 \fte The old man took a knife and started eating.
-\ftj ​そしてナイフを手にして食べはじめた、おじいさんは。
+\ftj そしてナイフを手にして食べはじめた、おじいさんは。
 \n 2015:68(18.1)
 
 \ref 16_ShAG20030816T2_18
@@ -19015,7 +19015,7 @@
 \orth Кушает, кушает.
 \ftr Он кушает, кушает.
 \fte He was eating and eating.
-\ftj ​食べた食べた。
+\ftj 食べた食べた。
 \n 2015:68(18.11)
 
 \ref 17_ShAG20030816T2_18
@@ -19243,7 +19243,7 @@
 \m irkin pod'erqo-ho al=ann'e-ŋi.
 \g one day-LOC NEG=speak-PL:IND.INTR.3
 \orth Ал анньэ... иркин подьэрхоҕо ал анньэӈи.
-\ftr ‎‎Не разговаривают целый день.
+\ftr Не разговаривают целый день.
 \fte They didn't talk the whole day.
 \ftj １日中しゃべらなかった。
 \n 2015:70(19.5)
@@ -24031,7 +24031,7 @@
 \ref 20_SAV20070726T2_30
 \t — pige?
 \m — pige?
-\g birch.bark.box
+\g {} birch.bark.box
 \orth — Пигэ?
 \ftr — Пигэ?
 \fte Pige?
@@ -24311,7 +24311,7 @@
 \ref 48_SAV20070726T2_30
 \t — jodū?
 \m — jodū?
-\g turn.of.river
+\g {} turn.of.river
 \orth — Йодуу?
 \ftr — Йодуу?
 \fte Yoduu?
@@ -24501,7 +24501,7 @@
 \ref 67_SAV20070726T2_30
 \t — erpejepul āj?
 \m — erpeje-pul āj?
-\g Ewen-PL again
+\g {} Ewen-PL again
 \orth — Эрпэйэпул аай?
 \ftr — Эвены тоже?
 \fte The Evens too?
@@ -24871,7 +24871,7 @@
 \ref 27_SAV20070726T3_31
 \t — eto_tol'ko_odin_raz?
 \m — eto_tol'ko_odin_raz?
-\g did.it.happen.only.once(Rus.)
+\g {} did.it.happen.only.once(Rus.)
 \orth — Это только один раз?
 \ftr — Это только один раз?
 \fte “And did you see it only once?”
@@ -25205,7 +25205,7 @@
 \orth «Аа, хон», — мони.
 \ftr «Хорошо, иди».
 \fte “All right, go.”
-\ftj ​「ああ、行っておくれ」
+\ftj 「ああ、行っておくれ」
 \n 2015:100(32.24)
 
 \ref 31_TMI20070725T2_32
@@ -25855,7 +25855,7 @@
 \orth «Хайа мо оӈроойох дуу?»
 \ftr «Ну вот, ты спишь?
 \fte “Well, are you sleeping?”
-\ftj ﻿‎‎「おや、眠っているのかい？」
+\ftj 「おや、眠っているのかい？」
 \n 2015:101(32.77)
 
 \ref 96_TMI20070725T2_32
@@ -28371,7 +28371,7 @@
 \ref 62_TMI20070725T2_35
 \t kto_dojarka, kto_teljatnitsa, rabotnitsy_separatora, smetany_delali, kto_svinarka, svinii.
 \m kto_dojarka, kto_teljatnitsa, rabotnitsy_separatora, smetany_delali, kto_svinarka, svinii.
-\g ‎someone.as.milkmaid(Rus.) someone.as.calfwoman(Rus.) milk-divider.operator(Rus.) they.made.sour.cream(Rus.) someone.as.pig-tender(Rus.) pigs(Rus.)
+\g someone.as.milkmaid(Rus.) someone.as.calfwoman(Rus.) milk-divider.operator(Rus.) they.made.sour.cream(Rus.) someone.as.pig-tender(Rus.) pigs(Rus.)
 \orth Кто доярка, кто телятница, работницы сепаратора, сметану делали, кто свинарка, свиньи.
 \ftr Кто доярка, кто телятница, работницы сепаратора, сметану делали, кто свинарка, свиньи.
 \fte We worked as milkmaids, calf herders, separator operators who made sour cream, and swineherds who took care of pigs.
