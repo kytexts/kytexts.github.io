@@ -1,0 +1,36 @@
+#headline1 {
+  background:  #52be80;
+  padding-left: 20px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+body {
+  padding-left: 11%;
+  padding-right: 4%;
+  padding-bottom: 1em;
+  font-family: 'Arial', 'Helvetica', 'Verdana', sans-serif;
+}
+ul.navbar {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: fixed;
+  top: 0.2em;
+  left: 0.2em;
+  width: 10%;
+  word-break: break-word;
+}
+ul.navbar li.active {
+  border-right: 1em solid #DE3163;
+}
+ul.navbar li {
+  background: #e5e7e9;
+  margin: 0.2em 0;
+  padding: 0.2em;
+  border-right: 1em solid gray;
+  height: 110%;
+  line-height: 130%;
+}
+ul.navbar a {
+  text-decoration: none
+}
