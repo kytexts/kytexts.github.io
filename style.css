@@ -34,3 +34,7 @@ ul.navbar li {
 ul.navbar a {
   text-decoration: none
 }
+td, th {
+    border: 1px gray solid;
+    font-size: 90%;
+}
